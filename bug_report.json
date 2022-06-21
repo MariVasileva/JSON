@@ -1,11 +1,14 @@
 {
-  "шаблон ":[
-    "заголовок",
-    "описание",
-    "начальные условия",
-    "шаги воспроизведения",
-    "ожидаемый результат",
-    "фактический результат",
-    "вложения"
+  "bug report structure":[
+    "summary",
+    "project",
+    "component",
+    "version",
+    "severity",
+    "priority",
+    "steps to reproduce",
+    "actual result",
+    "expected result",
+    "additional information"
   ]
 }
